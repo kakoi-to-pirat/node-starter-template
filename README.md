@@ -2,6 +2,7 @@
 
 docker-compose up
 
+<!-- 
 # Factory line manager
 [![Travis][build-badge]][build]
 [![Coveralls][coveralls-badge]][coveralls]
@@ -13,3 +14,4 @@ Awesome factory line manager!
 
 [coveralls-badge]: https://img.shields.io/coveralls/<Ваше имя на гите>/<Имя вашего проекта>/master.png?style=flat-square
 [coveralls]: https://coveralls.io/github/<Ваше имя на гитхабе>/<Имя вашего проекта>
+-->
